@@ -38,7 +38,7 @@ section {
     padding: 10px; /* Reduced padding */
     margin: 10px;
     width: 250px; /* Reduced width */
-    height: 350px; /* Reduced height */
+    height: 250px; /* Reduced height */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     overflow: hidden; /* Prevents overflow */
 }
